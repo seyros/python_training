@@ -1,4 +1,5 @@
-__author__ = 'konstantin'
+# -*- coding: utf-8 -*-
+__author__ = 'ivanov'
 
 
 class Group:
