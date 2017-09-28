@@ -5,14 +5,21 @@ __author__ = 'ivanov'
 
 from model.group import Group
 
+
 def test_add_group(app):
     old_groups = app.group.get_group_list()
-    app.group.create(Group(name="testgroup1", header="test1", footer= "test1"))
+    group = Group(name="testgroup1", header="test1", footer= "test1")
+    app.group.create(group)
     new_groups = app.group.get_group_list()
-    assert len(old_groups) + 1 == len(new_groups)
+    assert len(old_groups) + 1 == len(new_groups) # проверка что длина старого списка групп на 1 меньше длины нового списка
+    old_groups.append(group) # к старому списку групп добавляем новую группу
+    assert sorted(old_groups, key=Group.id_or_max) == sorted(new_groups, key=Group.id_or_max) # сравним отсортированные списки групп
 
 def test_add_empty_group(app):
     old_groups = app.group.get_group_list()
-    app.group.create(Group(name="", header="", footer=""))
+    group = Group(name="", header="", footer="")
+    app.group.create(group)
     new_groups = app.group.get_group_list()
     assert len(old_groups) + 1 == len(new_groups)
+    old_groups.append(group) # к старому списку групп добавляем новую группу
+    assert sorted(old_groups, key=Group.id_or_max) == sorted(new_groups, key=Group.id_or_max) # сравним отсортированные списки групп
