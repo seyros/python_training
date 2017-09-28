@@ -9,7 +9,7 @@ class Application:
 
     def __init__(self):  # конструктор, инициализирует ссылку на драйвер, а затем помощников
         self.wd = WebDriver()
-        self.wd.implicitly_wait(4)
+#        self.wd.implicitly_wait(4)  # полезно ставить ожидание при динамической загрузке страницы
         self.session = SessionHelper(self)
         self.group = GroupHelper(self)
 
