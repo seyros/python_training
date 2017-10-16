@@ -9,6 +9,44 @@ class ContactHelper:
     def __init__(self, app):
         self.app = app
 
+# my crazy code
+
+    def open_add_contact_page(self):
+        wd = self.app.wd
+        wd.find_element_by_link_text("add new").click()
+
+
+    def create(self, contact):
+        wd = self.app.wd
+        # init contact creation
+        self.open_add_contact_page()
+        self.fill_contact_form(contact)
+        # submit contact creation
+        wd.find_element_by_name("submit").click()
+
+
+    def fill_contact_form(self, contact):
+        wd = self.app.wd
+        self.change_field_value("firstname", contact.firstname)
+        self.change_field_value("middlename", contact.middlename)
+        self.change_field_value("lastname", contact.lastname)
+        self.change_field_value("nickname", contact.nickname)
+        self.change_field_value("title", contact.title)
+        self.change_field_value("company", contact.company)
+        self.change_field_value("address", contact.address)
+        self.change_field_value("home", contact.homephone)
+        self.change_field_value("mobile", contact.mobilephone)
+        self.change_field_value("work", contact.workphone)
+        self.change_field_value("fax", contact.fax)
+        self.change_field_value("email", contact.email)
+        self.change_field_value("email2", contact.email2)
+        self.change_field_value("email3", contact.email3)
+        self.change_field_value("homepage", contact.homepage)
+        self.change_field_value("address2", contact.address2)
+        self.change_field_value("phone2", contact.secondaryphone)
+        self.change_field_value("notes", contact.notes)
+#
+
     def change_field_value(self, field_name, text):
         wd = self.app.wd
         if text is not None:
