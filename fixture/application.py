@@ -1,19 +1,27 @@
 # -*- coding: utf-8 -*-
 __author__ = 'ivanov'
 
-from selenium.webdriver.firefox.webdriver import WebDriver
+from selenium import webdriver
 from fixture.session import SessionHelper
 from fixture.group import GroupHelper
 from fixture.contact import ContactHelper
 
 class Application:
 
-    def __init__(self):  # конструктор, инициализирует ссылку на драйвер, а затем помощников
-        self.wd = WebDriver()
+    def __init__(self, browser, base_url):  # конструктор, инициализирует ссылку на драйвер, а затем помощников
+        if browser == "firefox":
+            self.wd = webdriver.Firefox()
+        elif browser == "chrome":
+            self.wd = webdriver.Chrome()
+        elif browser == "ie":
+            self.wd = webdriver.Ie()
+        else:
+            raise ValueError("Unrecognized browser %s" % browser)
 #        self.wd.implicitly_wait(4)  # полезно ставить ожидание при динамической загрузке страницы
         self.session = SessionHelper(self)
         self.group = GroupHelper(self)
         self.contact = ContactHelper(self)
+        self.base_url = base_url
 
     def is_valid(self):
         try:
@@ -24,7 +32,7 @@ class Application:
 
     def open_home_page(self):
         wd = self.wd
-        wd.get("https://172.17.0.2/addressbook/index.php")
+        wd.get(self.base_url)
 
     def destroy(self):
         self.wd.quit()
