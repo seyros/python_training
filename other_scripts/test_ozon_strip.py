@@ -7,7 +7,6 @@ __author__ = 'ivanov'
 # print(array)
 
 import re
-
 def strip_url(line):
     ozon_url = re.search("(?P<url>https?://[^\s]+)", line).group("url")
     return ozon_url
