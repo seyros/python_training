@@ -1,12 +1,6 @@
-# -*- coding: utf-8 -*-
-__author__ = 'ivanov'
-
-# with open("all.txt") as file:
-#     array = [row.strip() for row in file]
-#
-# print(array)
-
 import re
+
+
 def strip_url(line):
     ozon_url = re.search("(?P<url>https?://[^\s]+)", line).group("url")
     return ozon_url
