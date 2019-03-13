@@ -1,0 +1,1293 @@
+{
+count: 83,
+next: null,
+previous: null,
+results: [
+{
+id: 104,
+photo: "/media/photos/02879560590511e4b981525400f2a141.jpg",
+full_name: "Антонов Петр Валентинович",
+location: "Удаленно",
+inter_phone: null,
+mobile_phone: "+7 (929) 620-33-99",
+skype: null,
+email: "pvantonov@corp.sputnik.ru",
+gender: 1,
+birthday: "03.28",
+location_pos: null
+},
+{
+id: 971,
+photo: "",
+full_name: "Морхов Денис Владимирович",
+location: "Удаленно",
+inter_phone: null,
+mobile_phone: "+7 (929) 571-55-10",
+skype: null,
+email: "morkhov@corp.sputnik.ru",
+gender: 1,
+birthday: "06.08",
+location_pos: null
+},
+{
+id: 107,
+photo: "/media/photos/bd40b774590511e4b981525400f2a141.jpg",
+full_name: "Винокуров Никита Андреевич",
+location: "Б-1",
+inter_phone: "16253",
+mobile_phone: "+7 (916) 142-15-00",
+skype: null,
+email: "vinokurov@corp.sputnik.ru",
+gender: 1,
+birthday: "03.11",
+location_pos: [
+159,
+1683
+]
+},
+{
+id: 972,
+photo: "/media/photos/63dbf21a351111e9a8190242ac120002.jpg",
+full_name: "Паршин Петр Васильевич",
+location: "А-3",
+inter_phone: null,
+mobile_phone: "+7 (910) 463-73-38",
+skype: null,
+email: "p.parshin@corp.sputnik.ru",
+gender: 1,
+birthday: "08.15",
+location_pos: [
+257,
+1807
+]
+},
+{
+id: 76,
+photo: "/media/photos/9811c7dadb7011e3a6ed525400f2a141.jpg",
+full_name: "Мадиев Андрей Александрович",
+location: "З-3",
+inter_phone: "16397",
+mobile_phone: "+7 (916) 884-99-66",
+skype: null,
+email: "madiev@corp.sputnik.ru",
+gender: 1,
+birthday: "01.08",
+location_pos: [
+917,
+1308
+]
+},
+{
+id: 588,
+photo: "/media/photos/a187e464ed0811e6bab2525400f2a141.jpg",
+full_name: "Глебов Алексей Викторович",
+location: "К2-2",
+inter_phone: "16257",
+mobile_phone: "+7 (915) 079-41-58",
+skype: null,
+email: "glebov@corp.sputnik.ru",
+gender: 1,
+birthday: "01.23",
+location_pos: [
+891,
+1791
+]
+},
+{
+id: 670,
+photo: "/media/photos/b30758da955811e69c70525400f2a141.jpg",
+full_name: "Гренков Юрий Александрович",
+location: "Ж-4",
+inter_phone: "16317",
+mobile_phone: "+7 (926) 218-40-25",
+skype: null,
+email: "grenkov@corp.sputnik.ru",
+gender: 1,
+birthday: "04.05",
+location_pos: [
+868,
+1137
+]
+},
+{
+id: 644,
+photo: "/media/photos/41f0a986955c11e69c70525400f2a141.jpg",
+full_name: "Правда Олег Юрьевич",
+location: "К10-3",
+inter_phone: "16417",
+mobile_phone: "+7 (909) 940-58-76",
+skype: null,
+email: "pravda@corp.sputnik.ru",
+gender: 1,
+birthday: "02.25",
+location_pos: [
+614,
+1383
+]
+},
+{
+id: 649,
+photo: "/media/photos/c64567a0955511e69c70525400f2a141.jpg",
+full_name: "Пинжура Денис Николаевич",
+location: "Б-2",
+inter_phone: "16372",
+mobile_phone: "+7 (916) 210-90-92",
+skype: null,
+email: "pinzhura@corp.sputnik.ru",
+gender: 1,
+birthday: "12.24",
+location_pos: [
+207,
+1683
+]
+},
+{
+id: 694,
+photo: "/media/photos/a33df4cee7c211e6bab2525400f2a141.jpg",
+full_name: "Чебаненко Иван Владимирович",
+location: "Удаленно",
+inter_phone: "16359",
+mobile_phone: "+7 (916) 294-78-54",
+skype: "ivan.chebanenko",
+email: "chebanenko@corp.sputnik.ru",
+gender: 1,
+birthday: "09.12",
+location_pos: null
+},
+{
+id: 723,
+photo: "/media/photos/ab53bc42319c11e7a6c7525400f2a141.jpg",
+full_name: "Ларионов Алексей Аркадьевич",
+location: "Б-4",
+inter_phone: "16369",
+mobile_phone: "+7 (999) 002-06-54",
+skype: "lexlarri",
+email: "alarionov@corp.sputnik.ru",
+gender: 1,
+birthday: "07.17",
+location_pos: [
+159,
+1605
+]
+},
+{
+id: 85,
+photo: "/media/photos/36cbd67038f211e4b0cc525400f2a141.jpg",
+full_name: "Заматаев Денис Валерьевич",
+location: "И-1",
+inter_phone: "16364",
+mobile_phone: "+7 (909) 956-67-29",
+skype: "dzamataev",
+email: "zamataev@corp.sputnik.ru",
+gender: 1,
+birthday: "07.09",
+location_pos: [
+1014,
+1432
+]
+},
+{
+id: 956,
+photo: "/media/photos/ee6f06aeb5a211e8a1680242ac120002.jpg",
+full_name: "Ларченко Роман Петрович",
+location: "В-2",
+inter_phone: "16320",
+mobile_phone: "+7 (985) 982-63-73",
+skype: null,
+email: "larchenko@corp.sputnik.ru",
+gender: 1,
+birthday: "06.30",
+location_pos: [
+207,
+1511
+]
+},
+{
+id: 120,
+photo: "/media/photos/7e0c9714591711e49d31525400f2a141.jpg",
+full_name: "Тарасов Андрей Вячеславович",
+location: "А-4",
+inter_phone: "16303",
+mobile_phone: "+7 (926) 273-51-16",
+skype: "",
+email: "tarasov@corp.sputnik.ru",
+gender: 1,
+birthday: "12.07",
+location_pos: [
+159,
+1728
+]
+},
+{
+id: 69,
+photo: "/media/photos/ffad571838f111e4b0cc525400f2a141.jpg",
+full_name: "Ваганян Тигран Сосович",
+location: "В-6",
+inter_phone: "16337",
+mobile_phone: "+7 (917) 587-36-80",
+skype: null,
+email: "vaganyan@corp.sputnik.ru",
+gender: 1,
+birthday: "07.03",
+location_pos: [
+207,
+1432
+]
+},
+{
+id: 268,
+photo: "/media/photos/57b0bc386f3f11e4af83525400f2a141.jpg",
+full_name: "Голосов Денис Владимирович",
+location: "Д-3",
+inter_phone: "16345",
+mobile_phone: "+7 (903) 241-95-83",
+skype: null,
+email: "golosov@corp.sputnik.ru",
+gender: 1,
+birthday: "07.20",
+location_pos: [
+256,
+1215
+]
+},
+{
+id: 281,
+photo: "/media/photos/5357da047bce11e49012525400f2a141.jpg",
+full_name: "Беляев Александр Васильевич",
+location: "И-5",
+inter_phone: "16324",
+mobile_phone: "+7 (916) 184-78-17",
+skype: "albeliaew",
+email: "belyaev@corp.sputnik.ru",
+gender: 1,
+birthday: "08.02",
+location_pos: [
+1014,
+1511
+]
+},
+{
+id: 960,
+photo: "/media/photos/1a555b38c31811e8be520242ac120002.jpg",
+full_name: "Ходырев Никита Алексеевич",
+location: null,
+inter_phone: null,
+mobile_phone: "+7 (985) 847-93-42",
+skype: null,
+email: "khodyrev@corp.sputnik.ru",
+gender: 1,
+birthday: "06.30",
+location_pos: null
+},
+{
+id: 226,
+photo: "/media/photos/a4f2351c48bb11e4bc0d525400f2a141.jpg",
+full_name: "Галинов Александр Сергеевич",
+location: "Б-6",
+inter_phone: "16315",
+mobile_phone: "+7 (968) 490-70-58",
+skype: "alexgalinov",
+email: "galinov@corp.sputnik.ru",
+gender: 1,
+birthday: "08.31",
+location_pos: [
+256,
+1605
+]
+},
+{
+id: 237,
+photo: "/media/photos/c2c1eab8498511e4bc0d525400f2a141.jpg",
+full_name: "Иванов Константин Владимирович",
+location: "Б-3",
+inter_phone: "16269",
+mobile_phone: "+7 (903) 187-74-77",
+skype: "aka_seyros",
+email: "ivanov@corp.sputnik.ru",
+gender: 1,
+birthday: "02.25",
+location_pos: [
+256,
+1683
+]
+},
+{
+id: 241,
+photo: "/media/photos/f55be43e498411e4bc0d525400f2a141.jpg",
+full_name: "Киселев Вячеслав Михайлович",
+location: "И-6",
+inter_phone: "16374",
+mobile_phone: "+7 (985) 229-25-47",
+skype: null,
+email: "vmkiselev@corp.sputnik.ru",
+gender: 1,
+birthday: "10.07",
+location_pos: [
+965,
+1511
+]
+},
+{
+id: 262,
+photo: "/media/photos/581c422259f611e49882525400f2a141.jpg",
+full_name: "Крякушин Антон Сергеевич",
+location: "И-7",
+inter_phone: "16390",
+mobile_phone: "+7 (903) 289-17-03",
+skype: null,
+email: "kryakushin@corp.sputnik.ru",
+gender: 1,
+birthday: "12.11",
+location_pos: [
+917,
+1511
+]
+},
+{
+id: 814,
+photo: "/media/photos/271f8a064a0e11e896ca0242ac120002.jpg",
+full_name: "Петряев Олег Вячеславович",
+location: "К10-2",
+inter_phone: null,
+mobile_phone: "+7 (903) 199-97-45",
+skype: null,
+email: "petryaev@corp.sputnik.ru",
+gender: 1,
+birthday: "10.08",
+location_pos: [
+505,
+1384
+]
+},
+{
+id: 816,
+photo: "/media/photos/9d2f215aa45111e8bc850242ac120002.jpg",
+full_name: "Шобанов Дмитрий Николаевич",
+location: "З-4",
+inter_phone: null,
+mobile_phone: "+7 (963) 996-51-75",
+skype: null,
+email: "shobanov@corp.sputnik.ru",
+gender: 1,
+birthday: "03.27",
+location_pos: [
+1014,
+1387
+]
+},
+{
+id: 817,
+photo: "/media/photos/56346efa96fe11e8bc850242ac120002.png",
+full_name: "Мостовой Антон Валериевич",
+location: null,
+inter_phone: null,
+mobile_phone: "+7 (967) 150-99-99",
+skype: null,
+email: "mostovoy@corp.sputnik.ru",
+gender: 1,
+birthday: "06.17",
+location_pos: null
+},
+{
+id: 954,
+photo: "/media/photos/36351760aabf11e8be520242ac120002.jpg",
+full_name: "Бушев Кирилл Игоревич",
+location: "Д-7",
+inter_phone: "16351",
+mobile_phone: "+7 (999) 8540322",
+skype: null,
+email: "bushev@corp.sputnik.ru",
+gender: 1,
+birthday: "06.22",
+location_pos: [
+256,
+1137
+]
+},
+{
+id: 955,
+photo: "/media/photos/ef082f66b01911e8be520242ac120002.jpg",
+full_name: "Дубовецкий Антон Андреевич",
+location: "Г-6",
+inter_phone: "16386",
+mobile_phone: "+7 (977) 268-25-79",
+skype: null,
+email: "dubovetskiy@corp.sputnik.ru",
+gender: 1,
+birthday: "06.01",
+location_pos: [
+207,
+1308
+]
+},
+{
+id: 725,
+photo: "/media/photos/1501d344360811e7a6c7525400f2a141.jpg",
+full_name: "Коробков Михаил Николаевич",
+location: "Д-8",
+inter_phone: "16428",
+mobile_phone: "+7 (909) 968-87-92",
+skype: null,
+email: "korobkov@corp.sputnik.ru",
+gender: 1,
+birthday: "01.16",
+location_pos: [
+305,
+1137
+]
+},
+{
+id: 100,
+photo: "/media/photos/3bea882438f511e4b0cc525400f2a141.jpg",
+full_name: "Овчинников Алексей Викторович",
+location: "А-2",
+inter_phone: "16294",
+mobile_phone: "+7 (926) 574-39-93",
+skype: null,
+email: "ovchinnikov@corp.sputnik.ru",
+gender: 1,
+birthday: "06.10",
+location_pos: [
+208,
+1807
+]
+},
+{
+id: 45,
+photo: "/media/photos/3e04ccaeec8011e78d920242ac120005.jpg",
+full_name: "Богданов Артем Николаевич",
+location: "Г-7",
+inter_phone: "16326",
+mobile_phone: "+7 (925) 036-8073",
+skype: null,
+email: "bogdanov@corp.sputnik.ru",
+gender: 1,
+birthday: "10.16",
+location_pos: [
+256,
+1308
+]
+},
+{
+id: 409,
+photo: "/media/photos/15c996e887a611e58e4b525400f2a141.jpg",
+full_name: "Захаров Максим Юрьевич",
+location: "Ж-3",
+inter_phone: "16268",
+mobile_phone: "+7 (968) 961-18-40",
+skype: null,
+email: "zaharov@corp.sputnik.ru",
+gender: 1,
+birthday: "05.24",
+location_pos: [
+917,
+1137
+]
+},
+{
+id: 36,
+photo: "/media/photos/0e5f0a7adb7011e3a6ed525400f2a141.jpg",
+full_name: "Киреев Артем Геннадьевич",
+location: "Е-3",
+inter_phone: "16275",
+mobile_phone: "+7 (906) 074-06-65",
+skype: null,
+email: "kireev@corp.sputnik.ru",
+gender: 1,
+birthday: "03.05",
+location_pos: [
+256,
+1090
+]
+},
+{
+id: 139,
+photo: "/media/photos/56f9ee701dd611e7b10a525400f2a141.jpg",
+full_name: "Хромов Максим Александрович",
+location: "К-1",
+inter_phone: "16400",
+mobile_phone: "+7 (905) 505-77-35",
+skype: null,
+email: "khromov@corp.sputnik.ru",
+gender: 1,
+birthday: "04.27",
+location_pos: [
+1016,
+1834
+]
+},
+{
+id: 330,
+photo: "/media/photos/797e7a7ed24711e4a429525400f2a141.jpg",
+full_name: "Бродский Александр Давидович",
+location: "Г-5",
+inter_phone: "16330",
+mobile_phone: "+7 (903) 128-02-72",
+skype: null,
+email: "brodskiy@corp.sputnik.ru",
+gender: 1,
+birthday: "02.24",
+location_pos: [
+159,
+1308
+]
+},
+{
+id: 353,
+photo: "/media/photos/26e1bcfcedab11e4a492525400f2a141.jpg",
+full_name: "Михайлов Александр Борисович",
+location: "Б-5",
+inter_phone: "16291",
+mobile_phone: "+7 (916) 321-58-22",
+skype: "ab_mikhaylov",
+email: "mihailov@corp.sputnik.ru",
+gender: 1,
+birthday: "01.04",
+location_pos: [
+207,
+1605
+]
+},
+{
+id: 355,
+photo: "/media/photos/59c34d82f97911e4a492525400f2a141.jpg",
+full_name: "Дмитриев Сергей Олегович",
+location: "И-2",
+inter_phone: "16354",
+mobile_phone: "+7 (906) 710-23-06",
+skype: "dmiserole",
+email: "dmitriev@corp.sputnik.ru",
+gender: 1,
+birthday: "11.12",
+location_pos: [
+965,
+1432
+]
+},
+{
+id: 363,
+photo: "/media/photos/63ce5d7a03b611e59589525400f2a141.jpg",
+full_name: "Кузьмин Виктор Вячеславович",
+location: "К-4",
+inter_phone: "16283",
+mobile_phone: "+7 (925) 316-88-51",
+skype: null,
+email: "kuzmin@corp.sputnik.ru",
+gender: 1,
+birthday: "05.07",
+location_pos: [
+693,
+1834
+]
+},
+{
+id: 2,
+photo: "/media/photos/e7f94e7e591711e49d31525400f2a141.jpg",
+full_name: "Чернов Евгений Михайлович",
+location: "Е-4",
+inter_phone: "16312",
+mobile_phone: "+7 (916) 813-89-08",
+skype: "em.chernov",
+email: "chernov@corp.sputnik.ru",
+gender: 1,
+birthday: "06.21",
+location_pos: [
+305,
+1090
+]
+},
+{
+id: 16,
+photo: "/media/photos/fb683e32590511e4b981525400f2a141.jpg",
+full_name: "Егоров Роман Александрович",
+location: "Д-6",
+inter_phone: "16357",
+mobile_phone: "+7 (916) 214-17-45",
+skype: "roman8egorov",
+email: "egorov@corp.sputnik.ru",
+gender: 1,
+birthday: "10.21",
+location_pos: [
+207,
+1137
+]
+},
+{
+id: 89,
+photo: "/media/photos/7e188d5410a511e49114525400f2a141.jpg",
+full_name: "Королев Андрей Игоревич",
+location: "Удаленно",
+inter_phone: "16383",
+mobile_phone: "+7 (903) 154-34-07",
+skype: "andrew-korolev",
+email: "korolev@corp.sputnik.ru",
+gender: 1,
+birthday: "07.20",
+location_pos: null
+},
+{
+id: 1,
+photo: "/media/photos/985be85a593411e49882525400f2a141.jpg",
+full_name: "Трубников Александр Сергеевич",
+location: "Е-6",
+inter_phone: "16309",
+mobile_phone: "+7 (925) 192-13-29",
+skype: "cu3blukekc",
+email: "trubnikov@corp.sputnik.ru",
+gender: 1,
+birthday: "04.20",
+location_pos: [
+207,
+1012
+]
+},
+{
+id: 95,
+photo: "/media/photos/65c55810591411e49d31525400f2a141.jpg",
+full_name: "Колосков Александр Сергеевич",
+location: "А-1",
+inter_phone: "16279",
+mobile_phone: "+7 (916) 461-50-12",
+skype: null,
+email: "koloskov@corp.sputnik.ru",
+gender: 1,
+birthday: "09.16",
+location_pos: [
+159,
+1807
+]
+},
+{
+id: 25,
+photo: "/media/photos/afd99b0a591911e4bad0525400f2a141.jpg",
+full_name: "Синдеев Алексей Сергеевич",
+location: "Д-5",
+inter_phone: "16426",
+mobile_phone: "+7 (977) 873-40-80",
+skype: "diahellfire",
+email: "sindeev@corp.sputnik.ru",
+gender: 1,
+birthday: "04.07",
+location_pos: [
+159,
+1137
+]
+},
+{
+id: 187,
+photo: "/media/photos/3ab8bcf001be11e49114525400f2a141.jpg",
+full_name: "Киселёв Станислав Владимирович",
+location: "А-5",
+inter_phone: "16277",
+mobile_phone: "+7 (985) 133-64-88",
+skype: null,
+email: "kiselev@corp.sputnik.ru",
+gender: 1,
+birthday: "01.19",
+location_pos: [
+208,
+1728
+]
+},
+{
+id: 196,
+photo: "/media/photos/43ad83b022c311e496b3525400f2a141.jpg",
+full_name: "Царев Игорь Олегович",
+location: "Е-5",
+inter_phone: "16311",
+mobile_phone: "+7 (916) 307-47-33",
+skype: "m2fire",
+email: "tsarev@corp.sputnik.ru",
+gender: 1,
+birthday: "04.04",
+location_pos: [
+159,
+1012
+]
+},
+{
+id: 194,
+photo: "/media/photos/a32e6758ef9611e6bab2525400f2a141.jpg",
+full_name: "Малинкин Дмитрий Викторович",
+location: "К2-1",
+inter_phone: "16398",
+mobile_phone: "+7 (905) 572-25-61",
+skype: null,
+email: "malinkin@corp.sputnik.ru",
+gender: 1,
+birthday: "09.11",
+location_pos: [
+907,
+1853
+]
+},
+{
+id: 957,
+photo: "/media/photos/073b2960b5a311e8981e0242ac120002.jpg",
+full_name: "Клюев Александр Дмитриевич",
+location: "А-6",
+inter_phone: "16276",
+mobile_phone: "+7 (903) 664-44-43",
+skype: null,
+email: "klyuev@corp.sputnik.ru",
+gender: 1,
+birthday: "01.04",
+location_pos: [
+257,
+1728
+]
+},
+{
+id: 962,
+photo: "/media/photos/ee7ca354c31711e8a1680242ac120002.jpg",
+full_name: "Щукин Владимир Николаевич",
+location: null,
+inter_phone: null,
+mobile_phone: "+7 (903) 724-67-92",
+skype: null,
+email: "v.shukin@corp.sputnik.ru",
+gender: 1,
+birthday: "02.21",
+location_pos: null
+},
+{
+id: 966,
+photo: "/media/photos/73938446c56011e8bc850242ac120002.jpg",
+full_name: "Лысенко Сергей Леонидович",
+location: "К-3",
+inter_phone: "16439",
+mobile_phone: "+7 (985) 364-25-86",
+skype: null,
+email: "s.lysenko@corp.sputnik.ru",
+gender: 1,
+birthday: "08.03",
+location_pos: [
+793,
+1839
+]
+},
+{
+id: 961,
+photo: "/media/photos/fddc7478c31711e8be520242ac120002.jpg",
+full_name: "Борисов Григорий Анатольевич",
+location: null,
+inter_phone: null,
+mobile_phone: "+7 (916) 741-30-39",
+skype: null,
+email: "borisov@corp.sputnik.ru",
+gender: 1,
+birthday: "07.13",
+location_pos: null
+},
+{
+id: 959,
+photo: "/media/photos/3790c610c31811e8a1680242ac120002.jpg",
+full_name: "Зайцев Денис Ильич",
+location: null,
+inter_phone: null,
+mobile_phone: "+7 (911) 257-20-00",
+skype: null,
+email: "dzaytsev@corp.sputnik.ru",
+gender: 1,
+birthday: "04.01",
+location_pos: null
+},
+{
+id: 965,
+photo: "/media/photos/7406bd5ac8ab11e8a1680242ac120002.jpg",
+full_name: "Паршин Филипп Викторович",
+location: "Удаленно",
+inter_phone: null,
+mobile_phone: "+7 (921) 358-51-30",
+skype: "phil-parshin",
+email: "parshin@corp.sputnik.ru",
+gender: 1,
+birthday: "11.17",
+location_pos: null
+},
+{
+id: 35,
+photo: "/media/photos/36d0253e590611e4b981525400f2a141.jpg",
+full_name: "Иванов Сергей Николаевич",
+location: "В-3",
+inter_phone: "16270",
+mobile_phone: "+7 (926) 698-17-81",
+skype: "technical_writer_1958",
+email: "seivanov@corp.sputnik.ru",
+gender: 1,
+birthday: "09.29",
+location_pos: [
+256,
+1511
+]
+},
+{
+id: 200,
+photo: "/media/photos/4e8c5a7a52a911e4a050525400f2a141.jpg",
+full_name: "Хаустович Николай Николаевич",
+location: "Удаленно",
+inter_phone: null,
+mobile_phone: "+7 (916) 860-21-18",
+skype: "nikolay.khaustovich",
+email: "khaustovich@corp.sputnik.ru",
+gender: 1,
+birthday: "04.19",
+location_pos: null
+},
+{
+id: 206,
+photo: "/media/photos/6857699652d511e4a050525400f2a141.jpg",
+full_name: "Ткаченко Дмитрий Викторович",
+location: "В-1",
+inter_phone: "16440",
+mobile_phone: "+7 (962) 943-99-08",
+skype: "dmitrytkachenko",
+email: "tkachenko@corp.sputnik.ru",
+gender: 1,
+birthday: "05.23",
+location_pos: [
+159,
+1511
+]
+},
+{
+id: 307,
+photo: "/media/photos/3289c4dacb5a11e6bab2525400f2a141.png",
+full_name: "Сысоев Александр Александрович",
+location: "Г-3",
+inter_phone: "16437",
+mobile_phone: "+7 (965) 245-97-91",
+skype: "sony-ericsson86",
+email: "sysoev@corp.sputnik.ru",
+gender: 1,
+birthday: "11.26",
+location_pos: [
+256,
+1387
+]
+},
+{
+id: 364,
+photo: "/media/photos/ecb3b782093a11e59589525400f2a141.jpg",
+full_name: "Алексеев Михаил Юрьевич",
+location: "В-5",
+inter_phone: "16318",
+mobile_phone: "+7 (916) 458-27-37",
+skype: null,
+email: "alekseev@corp.sputnik.ru",
+gender: 1,
+birthday: "08.15",
+location_pos: [
+159,
+1432
+]
+},
+{
+id: 367,
+photo: "/media/photos/abdfb4d2143d11e5b21c525400f2a141.jpg",
+full_name: "Коновалов Александр Иванович",
+location: "В-7",
+inter_phone: "16381",
+mobile_phone: "+7 (916) 513-16-43",
+skype: "",
+email: "akonovalov@corp.sputnik.ru",
+gender: 1,
+birthday: "06.26",
+location_pos: [
+256,
+1432
+]
+},
+{
+id: 400,
+photo: "/media/photos/27a3e6e887a611e58e4b525400f2a141.jpg",
+full_name: "Коробченко Сергей Сергеевич",
+location: "Ж-2",
+inter_phone: "16482",
+mobile_phone: "+7 (916) 095-23-33",
+skype: "sergey.korobchenko",
+email: "korobchenko@corp.sputnik.ru",
+gender: 1,
+birthday: "07.16",
+location_pos: [
+965,
+1137
+]
+},
+{
+id: 586,
+photo: "/media/photos/32bfc870955711e69c70525400f2a141.png",
+full_name: "Эссаулов Александр Сергеевич",
+location: "Е-2",
+inter_phone: "16314",
+mobile_phone: "+7 (915) 260-39-65",
+skype: null,
+email: "essaulov@corp.sputnik.ru",
+gender: 1,
+birthday: "11.24",
+location_pos: [
+207,
+1090
+]
+},
+{
+id: 253,
+photo: "/media/photos/080bd598590811e4b981525400f2a141.jpg",
+full_name: "Илюхина Анастасия Юрьевна",
+location: "Удаленно",
+inter_phone: "16404",
+mobile_phone: "+7 (905) 530-70-68",
+skype: "moiseeva_a",
+email: "moiseeva@corp.sputnik.ru",
+gender: 2,
+birthday: "04.28",
+location_pos: null
+},
+{
+id: 278,
+photo: "/media/photos/331dd3ea7bcb11e49012525400f2a141.jpg",
+full_name: "Селезнёва Алиса Николаевна",
+location: "И-3",
+inter_phone: "16424",
+mobile_phone: "+7 (926) 832-49-85",
+skype: "ickovna",
+email: "selezneva@corp.sputnik.ru",
+gender: 2,
+birthday: "05.28",
+location_pos: [
+917,
+1432
+]
+},
+{
+id: 958,
+photo: "",
+full_name: "Мишина Анна Владимировна",
+location: "Удаленно",
+inter_phone: null,
+mobile_phone: "+7 (981) 888-31-75",
+skype: null,
+email: "mishina@corp.sputnik.ru",
+gender: 2,
+birthday: "01.14",
+location_pos: null
+},
+{
+id: 44,
+photo: "/media/photos/b95e5b02591911e4bad0525400f2a141.jpg",
+full_name: "Ханина Елена Константиновна",
+location: "Ж-1",
+inter_phone: "16446",
+mobile_phone: "+7 (916) 417-32-92",
+skype: "espeil",
+email: "khanina@corp.sputnik.ru",
+gender: 2,
+birthday: "11.11",
+location_pos: [
+1014,
+1137
+]
+},
+{
+id: 141,
+photo: "/media/photos/94c36eec591711e49d31525400f2a141.jpg",
+full_name: "Тараненко Елена Игоревна",
+location: "К-5",
+inter_phone: "16491",
+mobile_phone: "+7 (917) 528-85-85",
+skype: null,
+email: "taranenko@corp.sputnik.ru",
+gender: 2,
+birthday: "10.17",
+location_pos: [
+584,
+1854
+]
+},
+{
+id: 794,
+photo: "/media/photos/e9f35fca036911e9a2070242ac120002.jpg",
+full_name: "Макеева Анастасия Сергеевна",
+location: "Д-1",
+inter_phone: "16456",
+mobile_phone: "+7 (965) 176-99-89",
+skype: null,
+email: "makeeva@corp.sputnik.ru",
+gender: 2,
+birthday: "01.17",
+location_pos: [
+159,
+1215
+]
+},
+{
+id: 813,
+photo: "/media/photos/1ea06260310411e896430242ac120005.jpg",
+full_name: "Бурдюгова Елена Ивановна",
+location: "К10-1",
+inter_phone: "16488",
+mobile_phone: "+7 (926) 7168280",
+skype: null,
+email: "burdugova@corp.sputnik.ru",
+gender: 2,
+birthday: "02.26",
+location_pos: [
+505,
+1484
+]
+},
+{
+id: 695,
+photo: "/media/photos/df12816864b211e8981e0242ac120002.jpg",
+full_name: "Бутрина Ирина Игоревна",
+location: "К6-1",
+inter_phone: "16367",
+mobile_phone: "+7 (903) 686-20-29",
+skype: "butrichi",
+email: "butrina@corp.sputnik.ru",
+gender: 2,
+birthday: "05.18",
+location_pos: [
+510,
+1853
+]
+},
+{
+id: 707,
+photo: "/media/photos/3f1d10460fe611e799c1525400f2a141.jpg",
+full_name: "Виноградова Марина Владимировна",
+location: "К6-2",
+inter_phone: "16348",
+mobile_phone: "+7 (916) 914-95-03",
+skype: null,
+email: "vinogradova@corp.sputnik.ru",
+gender: 2,
+birthday: "01.29",
+location_pos: [
+494,
+1791
+]
+},
+{
+id: 714,
+photo: "/media/photos/8390e35e237011e791e7525400f2a141.jpg",
+full_name: "Тимонина Ирина Алексеевна",
+location: "Л-1",
+inter_phone: "16466",
+mobile_phone: "+7 (925) 515-85-06",
+skype: null,
+email: "timonina@corp.sputnik.ru",
+gender: 2,
+birthday: "06.25",
+location_pos: [
+1014,
+1605
+]
+},
+{
+id: 815,
+photo: "/media/photos/a4ec7a66d07311e8bc850242ac120002.png",
+full_name: "Овсянникова Ольга Геннадьевна",
+location: "К10-4",
+inter_phone: "16382",
+mobile_phone: "+7 (915) 285-28-57",
+skype: null,
+email: "ovsyannikova@corp.sputnik.ru",
+gender: 2,
+birthday: "02.27",
+location_pos: [
+615,
+1485
+]
+},
+{
+id: 66,
+photo: "/media/photos/1f52a26c9fc311e8be520242ac120002.jpg",
+full_name: "Белецкая Татьяна Юрьевна",
+location: "З-1",
+inter_phone: "16322",
+mobile_phone: "+7 (926) 494-40-75",
+skype: "relso6lifovalnyvagon",
+email: "beletskaya@corp.sputnik.ru",
+gender: 2,
+birthday: "08.20",
+location_pos: [
+1014,
+1308
+]
+},
+{
+id: 410,
+photo: "/media/photos/9d333a9a87a511e58e4b525400f2a141.jpg",
+full_name: "Коробкова-Землянская Елена Николаевна",
+location: "Л-2",
+inter_phone: null,
+mobile_phone: "+7 (903) 721-56-69",
+skype: "ekzemlyanskaya",
+email: "korobkova@corp.sputnik.ru",
+gender: 2,
+birthday: "05.09",
+location_pos: [
+965,
+1605
+]
+},
+{
+id: 724,
+photo: "/media/photos/e66bc63e360711e7a6c7525400f2a141.png",
+full_name: "Быкова Юлия Евгеньевна",
+location: "Ж-6",
+inter_phone: "16344",
+mobile_phone: "+7 (916) 200-15-14",
+skype: null,
+email: "ubykova@corp.sputnik.ru",
+gender: 2,
+birthday: "04.12",
+location_pos: [
+965,
+1215
+]
+},
+{
+id: 270,
+photo: "/media/photos/54824342715611e4b074525400f2a141.jpg",
+full_name: "Дмитриева Елена Сергеевна",
+location: "Е-8",
+inter_phone: "16261",
+mobile_phone: "+7 (925) 570-84-70",
+skype: "elena.dmitrieva_msc",
+email: "dmitrieva@corp.sputnik.ru",
+gender: 2,
+birthday: "07.02",
+location_pos: [
+305,
+1012
+]
+},
+{
+id: 968,
+photo: "",
+full_name: "Велькина Ольга Ивановна",
+location: "Удаленно",
+inter_phone: null,
+mobile_phone: "+7 (926) 536-24-53",
+skype: null,
+email: "velkina@corp.sputnik.ru",
+gender: 2,
+birthday: "06.23",
+location_pos: null
+},
+{
+id: 589,
+photo: "/media/photos/4121d782955711e69c70525400f2a141.jpg",
+full_name: "Савченко Елена Юрьевна",
+location: "Ж-5",
+inter_phone: "16298",
+mobile_phone: "+7 (964) 729-86-60",
+skype: null,
+email: "savchenko@corp.sputnik.ru",
+gender: 2,
+birthday: "01.24",
+location_pos: [
+1014,
+1215
+]
+},
+{
+id: 969,
+photo: "/media/photos/f80056e0157f11e9a35f0242ac120002.jpg",
+full_name: "Белянкина Надежда Михайловна",
+location: "Ж-8",
+inter_phone: null,
+mobile_phone: "+7 (903) 209-09-03",
+skype: null,
+email: "belyankina@corp.sputnik.ru",
+gender: 2,
+birthday: "04.03",
+location_pos: [
+868,
+1215
+]
+},
+{
+id: 62,
+photo: "/media/photos/484000cc38f511e4b0cc525400f2a141.jpg",
+full_name: "Краснова Наталья Борисовна",
+location: "З-2",
+inter_phone: "16387",
+mobile_phone: "+7 (925) 543-84-36",
+skype: "krasnova_natash",
+email: "nkrasnova@corp.sputnik.ru",
+gender: 2,
+birthday: "06.12",
+location_pos: [
+965,
+1308
+]
+},
+{
+id: 672,
+photo: "/media/photos/e31b0480955911e69c70525400f2a141.jpg",
+full_name: "Устинова Алена Петровна",
+location: "Ж-7",
+inter_phone: "16332",
+mobile_phone: "+7 (926) 689-12-21",
+skype: null,
+email: "ustinova@corp.sputnik.ru",
+gender: 2,
+birthday: "02.19",
+location_pos: [
+917,
+1215
+]
+},
+{
+id: 74,
+photo: "/media/photos/88bb47ca590611e4b981525400f2a141.jpg",
+full_name: "Козина Любовь Анатольевна",
+location: "Г-1",
+inter_phone: "16377",
+mobile_phone: "+7 (915) 287-55-07",
+skype: "ljubashechka",
+email: "kozina@corp.sputnik.ru",
+gender: 2,
+birthday: "12.29",
+location_pos: [
+159,
+1387
+]
+},
+{
+id: 970,
+photo: "",
+full_name: "Савостина Елена Анатольевна",
+location: "З-5",
+inter_phone: null,
+mobile_phone: "+7 (916) 486-50-50",
+skype: null,
+email: "savostina@corp.sputnik.ru",
+gender: 2,
+birthday: "09.13",
+location_pos: [
+965,
+1387
+]
+},
+{
+id: 41,
+photo: "/media/photos/467356c43e4d11e484ec525400f2a141.jpg",
+full_name: "Сартасова Анна Викторовна",
+location: "Е-7",
+inter_phone: "16300",
+mobile_phone: "+7 (926) 995-24-68",
+skype: "annasartasova",
+email: "sartasova@corp.sputnik.ru",
+gender: 2,
+birthday: "09.14",
+location_pos: [
+256,
+1012
+]
+}
+]
+}
