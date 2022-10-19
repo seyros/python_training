@@ -6,8 +6,8 @@ def strip_url(line):
     return ozon_url
 
 
-source = open('all.txt')
-url_list = open('stripped_ozon.txt', 'w')
+source = open('data/all.txt')
+url_list = open('data/stripped_ozon.txt', 'w')
 for line in source.readlines():
     surl = strip_url(line)
     url_list.write(surl + '\n')
